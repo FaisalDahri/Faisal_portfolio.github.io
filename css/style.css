@@ -135,7 +135,7 @@
   text-decoration: underline;
 }
 
-.about p {
-  margin: 0 0 20px 0; /* top right bottom left */
+.wrapper .content .about p {
+  margin-bottom: 20px;
   line-height: 1.7;
 }
