@@ -134,3 +134,8 @@
 .info a:hover {
   text-decoration: underline;
 }
+
+.about p {
+  margin-bottom: 20px; /* space between paragraphs */
+  line-height: 1.6;    /* improves readability */
+}
