@@ -87,8 +87,12 @@
   color: #0f172a;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
 
-  border-left: 6px solid #10B981;
+.project-card {
+  box-shadow:
+    inset 6px 0 0 #10B981,
+    0 4px 12px rgba(0,0,0,0.08);
 }
 
 .project-card:hover {
