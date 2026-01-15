@@ -90,9 +90,7 @@
 }
 
 .project-card {
-  box-shadow:
-    inset 6px 0 0 #10B981,
-    0 4px 12px rgba(0,0,0,0.08);
+  border-left: 6px solid #10B981 !important;
 }
 
 .project-card:hover {
