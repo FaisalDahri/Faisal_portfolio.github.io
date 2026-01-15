@@ -96,7 +96,11 @@
 
 /* ABOUT SECTION */
 .about {
-  margin-top: 60px;
+  background: #ffffff;
+  border-left: 6px solid #10B981;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
 .about h2 {
