@@ -85,13 +85,14 @@
   margin-bottom: 20px;
   text-decoration: none;
   color: #0f172a;
+
+  /* LEFT ACCENT BORDER */
+  border-left: 6px solid #10B981;
+
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.project-card {
-  border-left: 6px solid #10B981 !important;
-}
 
 .project-card:hover {
   transform: translateY(-4px);
