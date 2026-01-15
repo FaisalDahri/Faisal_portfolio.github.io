@@ -104,7 +104,14 @@
 }
 
 .about h2 {
-  margin-bottom: 15px;
+  color: #064E3B;
+  margin-bottom: 25px;
+}
+
+.about p {
+  margin-bottom: 20px;
+  line-height: 1.7;
+  color: #334155;
 }
 
 .role {
